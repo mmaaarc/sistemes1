@@ -1,6 +1,5 @@
-# Curso de Machine Learning
+# ADMINISTRACIÓ DE SISTEMES OPERATIUS
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
 
 ## Contenido
 
