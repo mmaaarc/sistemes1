@@ -1,4 +1,4 @@
----
+0---
 layout: default
 title: "ADMINISTRACIÓ DE SISTEMES OPERATIUS"
 ---
@@ -7,7 +7,7 @@ title: "ADMINISTRACIÓ DE SISTEMES OPERATIUS"
 
 ## Llicencia 
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [https://creativecommons.org/licenses/by-nc-nd/4.0/ ](LICENSE.md).
 
 ## Pràctiques 
 
