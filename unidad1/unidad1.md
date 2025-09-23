@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático"
+title: "Sprint 1 Instal·lació i configuració inicial"
 ---
 
 ## Virtualització i instal·lació del sistema operatiu Ubuntu 
