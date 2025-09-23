@@ -10,7 +10,13 @@ El primer que fare és crear una màquina virtual Ubuntu Desktop al VirtualBox a
 <img width="879" height="471" alt="Captura de pantalla de 2025-09-18 14-05-29" src="https://github.com/user-attachments/assets/3a9e346d-290c-4709-b768-94860ed72819" />
 
 Configuro la mida de memoria en el meu cas he posat 6144 MB.
+
 <img width="879" height="471" alt="Captura de pantalla de 2025-09-18 14-05-55" src="https://github.com/user-attachments/assets/c7823095-034a-4ab5-bed9-084513140795" />
+
+Seguidament configuro la mida del disc virtual, he posat 80GB, utilitzare 40GB per l'instal·lació de Ubuntu i 40GB lliures per un posible sistema dual o simplement per l'ús diari.
+
+<img width="879" height="471" alt="Captura de pantalla de 2025-09-18 14-05-59" src="https://github.com/user-attachments/assets/aa20f81e-7fd9-4b01-84e4-1ee746932a30" />
+
 
 ## Llicènciament
 
