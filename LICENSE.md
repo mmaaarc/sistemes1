@@ -1,6 +1,6 @@
-# Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)
+# Atribució-No Comercial-CompartirIgual 4.0 Internacional 
 
-Este trabajo está licenciado bajo la [Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/ ).
+Aquesta és la llicencia d'aquesta pàgina  [Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/ ).
 
 ---
 
