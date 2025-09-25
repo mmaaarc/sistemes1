@@ -7,8 +7,8 @@ title: "ADMINISTRACIÓ DE SISTEMES OPERATIUS"
 
 ## Llicencia 
 
-El contenido está bajo licencia [https://creativecommons.org/licenses/by-nc-nd/4.0/ ](LICENSE.md).
+La llicencia d'aquesta pàgina la trobareu aquí [https://creativecommons.org/licenses/by-nc-nd/4.0/ ](LICENSE.md).
 
 ## Pràctiques 
 
-### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
+### [Instal·lació ubuntu Desktop desde cero](unidad1/unidad1.md)  
